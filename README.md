@@ -8,11 +8,11 @@
   
   <!-- ASCII Art Style Title -->
   <pre style="color:#0F0; background:#000; padding:10px; border-radius:8px; display:inline-block; font-family:monospace; font-size:14px;">
-  ╔════════════════════════════╗
-  ║       N O T R A M O S      ║
-  ║     S e r g i o G u n t u r║
+  ╔══════════════════════════════╗
+  ║       N O T R A M O S        ║
+  ║     S e r g i o G u n t u r  ║
   ║    F r e s h G r a d u a t e ║
-  ╚════════════════════════════╝
+  ╚══════════════════════════════╝
   </pre>
 
   <br/>
@@ -29,14 +29,12 @@
 
 Hai, saya **Sergio Guntur**, atau lebih dikenal sebagai **`notramos`** — seorang **fresh graduate** dari jurusan **Sistem Informasi (S.Kom)** yang siap terjun ke dunia pengembangan perangkat lunak.
 
-> *"Belajar itu seperti compile code pertama: error terus, tapi tetap semangat sampai running."* 💻
+> 
 
 🔧 Saat ini sedang mendalami:
 - Backend Development (PHP, Go, Python)
 - Fullstack JavaScript/TypeScript
 - Algoritma & Struktur Data (dengan C tentunya 😉)
-
-Saya percaya bahwa **teknologi dimulai dari fondasi kuat** — jadi saya bangun dari dasar, kayak bikin OS di terminal tanpa GUI. 😄
 
 ---
 
@@ -70,13 +68,11 @@ Saya percaya bahwa **teknologi dimulai dari fondasi kuat** — jadi saya bangun 
 
 ---
 
-### 🎛️ Nuansa Vintage Tech
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" style="filter:contrast(120%) brightness(95%);" />
 </div>
 
-> _"S.Kom bukan akhir, tapi `main()` dari petualangan sebenarnya."_  
+> _"Stay Hungry"_  
 > — Sergio Guntur, 2025
 
 Simulasi kode retro:
