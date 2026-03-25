@@ -1,103 +1,86 @@
 <div align="center">
 
-```
-  ███╗  ██╗ ██████╗ ████████╗██████╗  █████╗ ███╗   ███╗ ██████╗ ███████╗
-  ████╗ ██║██╔═══██╗╚══██╔══╝██╔══██╗██╔══██╗████╗ ████║██╔═══██╗██╔════╝
-  ██╔██╗██║██║   ██║   ██║   ██████╔╝███████║██╔████╔██║██║   ██║███████╗
-  ██║╚████║██║   ██║   ██║   ██╔══██╗██╔══██║██║╚██╔╝██║██║   ██║╚════██║
-  ██║ ╚███║╚██████╔╝   ██║   ██║  ██║██║  ██║██║ ╚═╝ ██║╚██████╔╝███████║
-  ╚═╝  ╚══╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚══════╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=36&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&height=60&lines=Sergio+Guntur)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Software+Developer;Backend+%2B+Fullstack;Build+it.+Break+it.+Make+it+fast.)](https://git.io/typing-svg)
+**`@notramos`** · Software Developer · Jakarta, ID
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=400&size=16&pause=2000&color=64748B&center=true&vCenter=true&width=600&height=36&lines=Backend-leaning+fullstack+developer;Builds+fast%2C+clean%2C+and+scalable+things;S.Kom+%E2%80%94+Sistem+Informasi)](https://git.io/typing-svg)
 
 <br/>
 
-![](https://img.shields.io/badge/BACKEND-00F5FF?style=for-the-badge&labelColor=0a0a0f)
-![](https://img.shields.io/badge/FULLSTACK-FF2D78?style=for-the-badge&labelColor=0a0a0f)
-![](https://img.shields.io/badge/OPEN_TO_WORK-39FF14?style=for-the-badge&labelColor=0a0a0f&color=39FF14&logoColor=000)
+![Backend](https://img.shields.io/badge/Backend-7C3AED?style=flat-square&logoColor=white)
+![Fullstack](https://img.shields.io/badge/Fullstack-0EA5E9?style=flat-square&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open_to_Work-10B981?style=flat-square&logoColor=white)
+![Jakarta WIB](https://img.shields.io/badge/Jakarta_·_WIB-F59E0B?style=flat-square&logoColor=white)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=notramos&label=VISITORS&color=00f5ff&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=notramos&label=visitors&color=7c3aed&style=flat-square)
 
 </div>
 
 ---
 
-```bash
-$ whoami
-  sergio guntur // notramos
+## About
 
-$ cat about.txt
-  ┌─────────────────────────────────────────┐
-  │  Name   : Sergio Guntur                 │
-  │  Handle : notramos                      │
-  │  Degree : S.Kom — Sistem Informasi      │
-  │  Role   : Backend-leaning fullstack dev │
-  │  Loc    : Indonesia / WIB (UTC+7)       │
-  └─────────────────────────────────────────┘
+S.Kom in Sistem Informasi, turned into a developer who cares about **clean architecture**, meaningful APIs, and code that doesn't embarrass future-me.
 
-$ status --now
-  ↳ Deepening Go concurrency patterns
-  ↳ Building scalable APIs with clean arch
-  ↳ Containerizing everything with Docker
-  ↳ DSA grind with C  // never stops
-```
+- Deepening Go concurrency & performance patterns
+- Building scalable APIs with clean architecture in PHP
+- Containerizing everything — Docker is home now
+- DSA grind with C — the grind never stops
 
 ---
 
-## `~/skill-tree`
+## Skill tree
 
-**[ BACKEND ]**
+**Backend**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-7C3AED?style=flat-square&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-0284C7?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0369A1?style=flat-square&logo=python&logoColor=white)
 
-**[ FRONTEND & FULLSTACK ]**
+**Fullstack**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-B45309?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-4338CA?style=flat-square&logo=typescript&logoColor=white)
 
-**[ SYSTEMS ]**
+**Systems**
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/C-334155?style=flat-square&logo=c&logoColor=white)
 
-**[ TOOLING ]**
+**Tooling & Infra**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-C2410C?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-15803D?style=flat-square&logo=linux&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0F766E?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-BE185D?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-1D4ED8?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## `~/stats`
+## Stats
 
 <div align="center">
 
-![Sergio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=notramos&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&text_color=e8e8ff&icon_color=ff2d78)
+<img src="https://github-readme-stats.vercel.app/api?username=notramos&show_icons=true&hide_border=true&bg_color=ffffff&title_color=7c3aed&text_color=1a1a1a&icon_color=0ea5e9&border_radius=12" height="160"/>
 &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notramos&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&text_color=e8e8ff)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notramos&layout=compact&hide_border=true&bg_color=ffffff&title_color=7c3aed&text_color=1a1a1a&border_radius=12" height="160"/>
 
-<br/>
+<br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=notramos&hide_border=true&background=0a0a0f&ring=00f5ff&fire=ff2d78&currStreakLabel=ffe500&stroke=2a2a4a&dates=6a6a9a&sideLabels=e8e8ff&currStreakNum=00f5ff&sideNums=e8e8ff)
+<img src="https://streak-stats.demolab.com?user=notramos&hide_border=true&background=ffffff&ring=7c3aed&fire=f59e0b&currStreakLabel=0ea5e9&stroke=e2e8f0&dates=94a3b8&sideLabels=1a1a1a&currStreakNum=7c3aed&sideNums=1a1a1a&border_radius=12"/>
 
 </div>
 
 ---
 
-## `~/origin`
+## Origin
 
 ```c
 /* hello_world.c — where it all started */
 #include <stdio.h>
 
 int main() {
-    printf("Hello, Dunia!\n");  // it begins
+    printf("Hello, Dunia!\n");
     return 0;
 }
 ```
@@ -105,22 +88,18 @@ int main() {
 ```
 $ gcc hello_world.c -o hello && ./hello
   Hello, Dunia!
-
-$ echo "Simple. Correct. Ship it."
-  Simple. Correct. Ship it.
 ```
+
+> Simple. Correct. Ship it.
 
 ---
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════╗
-║   "STAY HUNGRY"  —  Sergio Guntur 2025   ║
-║         github.com/notramos              ║
-╚══════════════════════════════════════════╝
-```
+**Sergio Guntur · 2025**
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:00f5ff,100:ff2d78&height=80&section=footer)
+*"Stay hungry."*
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0ea5e9,100:10b981&height=80&section=footer)
 
 </div>
