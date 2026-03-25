@@ -1,86 +1,110 @@
-<!-- 
-  ██▓▒░ PROFIL GITHUB VINTAGE oleh notramos ░▒▓██
-  Fresh Graduate Sistem Informasi | S.Kom
-  Dibuat dengan cinta dan sedikit nostalgia terminal lama 💾
--->
-
+<!-- notramos · Sergio Guntur -->
 <div align="center">
-  
-  <!-- ASCII Art Style Title -->
-  <pre style="color:#0F0; background:#000; padding:10px; border-radius:8px; display:inline-block; font-family:monospace; font-size:14px;">
-  ╔══════════════════════════════╗
-  ║       N O T R A M O S        ║
-  ║     S e r g i o G u n t u r  ║
-  ║    F r e s h G r a d u a t e ║
-  ╚══════════════════════════════╝
-  </pre>
 
-  <br/>
-  <img src="https://img.shields.io/badge/Fresh--Graduate-2E4057?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <br/><br/>
+```
+███╗   ██╗ ██████╗ ████████╗██████╗  █████╗ ███╗   ███╗ ██████╗ ███████╗
+████╗  ██║██╔═══██╗╚══██╔══╝██╔══██╗██╔══██╗████╗ ████║██╔═══██╗██╔════╝
+██╔██╗ ██║██║   ██║   ██║   ██████╔╝███████║██╔████╔██║██║   ██║███████╗
+██║╚██╗██║██║   ██║   ██║   ██╔══██╗██╔══██║██║╚██╔╝██║██║   ██║╚════██║
+██║ ╚████║╚██████╔╝   ██║   ██║  ██║██║  ██║██║ ╚═╝ ██║╚██████╔╝███████║
+╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚══════╝
+```
 
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=notramos&label=Profile+Views&color=green&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=notramos&label=visitors&color=00ff88&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/open_to_work-yes-00ff88?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/timezone-WIB_(UTC+7)-0a0a0a?style=flat-square" />
+
 </div>
 
 ---
 
-### 🖥️ Tentang Saya
+```bash
+$ whoami
+> sergio guntur — software developer, problem solver, lifelong learner
 
-Hai, saya **Sergio Guntur**, atau lebih dikenal sebagai **`notramos`** — seorang **fresh graduate** dari jurusan **Sistem Informasi (S.Kom)** yang siap terjun ke dunia pengembangan perangkat lunak.
+$ pwd
+> /home/notramos
 
-> 
-
-🔧 Saat ini sedang mendalami:
-- Backend Development (PHP, Go, Python)
-- Fullstack JavaScript/TypeScript
-- Algoritma & Struktur Data (dengan C tentunya 😉)
-
----
-
-### 💼 Skill yang Dipelajari
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-</p>
-
-> 🔧 Tools: Git, VS Code, Linux CLI, MySQL, Docker (sedang belajar)
+$ cat about.txt
+  - S.Kom, Sistem Informasi
+  - Backend-leaning fullstack developer
+  - Builds things that work, then makes them fast
+  - Currently obsessed with clean architecture & Go concurrency
+```
 
 ---
 
-### 📊 Statistik GitHub (Terminal Mode: ON)
+### `~/stack`
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend & Fullstack**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Low-level & Systems**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+### `~/stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notramos&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=CCCCCC&icon_color=00FF00" height="180" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notramos&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=CCCCCC" height="180" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=notramos&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=aaaaaa&icon_color=00ff88&rank_icon=github" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notramos&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=aaaaaa" height="175" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=notramos&theme=dark-green&hide_border=true&background=000000&ring=00FF00&fire=00FF00&stroke=00FF00" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=notramos&theme=dark-green&hide_border=true&background=0d0d0d&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" style="filter:contrast(120%) brightness(95%);" />
-</div>
+### `~/origin`
 
-> _"Stay Hungry"_  
-> — Sergio Guntur, 2025
-
-Simulasi kode retro:
+The first lines I ever typed:
 
 ```c
-// First program I ever wrote
+/* hello_world.c — where it all started */
 #include <stdio.h>
+
 int main() {
-  printf("Hello, Dunia!\n");
-  return 0;
+    printf("Hello, Dunia!\n");
+    return 0;
 }
+```
+
+```
+$ gcc hello_world.c -o hello && ./hello
+> Hello, Dunia!
+```
+
+> Simple. Correct. Ship it.
+
+---
+
+### `~/contact`
+
+```
+notramos@github     →  github.com/notramos
+```
+
+<div align="center">
+<sub>sergio guntur · built with coffee and curiosity · 2025</sub>
+</div>
