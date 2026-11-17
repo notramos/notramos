@@ -2,7 +2,12 @@
 
 <h1>Sergio Guntur</h1>
 
-<p><strong>Backend-leaning Software Developer</strong></p>
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=20&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&repeat=true&width=620&height=34&lines=Backend-leaning+Software+Developer;APIs+with+clear+contracts;Full-stack+when+the+product+needs+it"
+    alt="Backend-leaning Software Developer. APIs with clear contracts. Full-stack when the product needs it."
+  />
+</a>
 
 <p>Jakarta, Indonesia · S.Kom in Information Systems</p>
 
@@ -12,6 +17,10 @@ practical infrastructure, and code that stays understandable.
 </p>
 
 <p>
+<a href="#technical-range"><strong>Technical range</strong></a>
+&nbsp;·&nbsp;
+<a href="#github-activity"><strong>GitHub activity</strong></a>
+&nbsp;·&nbsp;
 <a href="https://github.com/notramos?tab=repositories"><strong>Repositories</strong></a>
 &nbsp;·&nbsp;
 <a href="https://github.com/notramos/notramos-porto"><strong>Portfolio source</strong></a>
@@ -30,12 +39,17 @@ I am a software developer with an Information Systems background. My work leans 
 
 I care about explicit contracts, useful abstractions, and systems that future maintainers can reason about without archaeology.
 
-## Current focus
+<details open>
+<summary><strong>Current focus</strong></summary>
+
+<br/>
 
 - Exploring concurrency and performance patterns in Go
 - Designing PHP services with clean architectural boundaries
 - Building reproducible development environments with Docker
 - Strengthening data structures and algorithms fundamentals with C
+
+</details>
 
 ## Technical range
 
@@ -48,7 +62,10 @@ I care about explicit contracts, useful abstractions, and systems that future ma
 | Infrastructure | `Docker` · `Linux` · `Git` |
 | Daily environment | `VS Code` |
 
-## Engineering principles
+<details>
+<summary><strong>How I approach engineering</strong></summary>
+
+<br/>
 
 | Principle | What it means in practice |
 |---|---|
@@ -56,6 +73,8 @@ I care about explicit contracts, useful abstractions, and systems that future ma
 | Simple by default | Start with the smallest architecture that solves the real problem. |
 | Reproducible delivery | Keep environments and deployment steps documented and repeatable. |
 | Readable after release | Optimize code for the next person who needs to change it. |
+
+</details>
 
 ## GitHub activity
 
@@ -100,7 +119,9 @@ I care about explicit contracts, useful abstractions, and systems that future ma
 ## Origin
 
 <details>
-<summary><strong>The first program</strong></summary>
+<summary><strong>Open hello_world.c</strong></summary>
+
+<br/>
 
 ```c
 #include <stdio.h>
